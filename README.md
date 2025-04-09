@@ -1,4 +1,4 @@
-# Espresso coffee project on MYSQL
+# Espresso Coffee sql Project
 
 ![Company Logo](espresso_coffee.png)
 
