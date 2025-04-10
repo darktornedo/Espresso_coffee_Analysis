@@ -75,7 +75,7 @@ GROUP BY p.product_name
 ORDER BY total_orders DESC;
 
 /* Task 4: Top 3 Customers by city
-write a query to find top 3 customers from each city on order volume */
+write a query to find top 3 customers from each city based on order volume */
 
 WITH top_customers AS (
 SELECT c.city_name, cc.customer_id,cc.customer_name,SUM(s.total) as total_revenue,
