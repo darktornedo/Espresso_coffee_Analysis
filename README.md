@@ -40,7 +40,7 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
    write a query to find Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
 
 10. **Market Potential Analysis**  
-    write a query to identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, avg revenue, avg rent, estimated  coffee consumer
+    write a query to identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, average revenue, average rent, estimated  coffee consumer
     
 
 ## Recommendations
