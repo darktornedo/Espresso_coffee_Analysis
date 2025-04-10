@@ -18,7 +18,7 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
    write a query to find how many units of each coffee product have been sold
 
 4. **Top 3 Customers by city**  
-   write a query to find top 3 customers from each city on order volume
+   write a query to find top 3 customers from each city based on order volume
 
 5. **City Population and Coffee Consumers**  
    Provide a list of cities along with their populations and estimated coffee consumers.
