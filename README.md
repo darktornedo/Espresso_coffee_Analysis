@@ -6,7 +6,6 @@
 The goal of this project is to analyze the sales data of Espresso Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
 ## Key Questions
-**Easy Level Questions:**
 
 1. **Coffee Consumers Count**  
    write a query to find how many people in each city are estimated to consume coffee, given that 25% of the population does
@@ -23,8 +22,6 @@ The goal of this project is to analyze the sales data of Espresso Coffee, a comp
 5. **City Population and Coffee Consumers**  
    Provide a list of cities along with their populations and estimated coffee consumers.
 
-**Medium Level Questions:**
-
 6. **Top Selling Products by City**  
    write a query to find the top 3 selling products in each city based on sales volume
 
@@ -33,8 +30,6 @@ The goal of this project is to analyze the sales data of Espresso Coffee, a comp
 
 8. **Average Sale vs Rent**  
    write a query to find each city and their average sale per customer and avg rent per customer
-
-**Advanced Level Questions:**
 
 9. **Monthly Sales Growth**  
    write a query to find Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
